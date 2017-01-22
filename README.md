@@ -1,9 +1,8 @@
 <h1 style="font-family: courier;" align="center"> satshakit mini flight controller</h1>
 <p align="center">
-<img src="media/readme/satshakit_fc_power_connected.jpeg" width="70%">
+<img src="media/board_first.jpg" width="70%">
 <div align="center"><i>An open source & easy to make small flight controller board.</i></div>
 </p>  
-
 
 satshakit mini flight controller
 --
@@ -25,6 +24,9 @@ satshakit mini flight controller has been designed aiming to be **easy to make, 
 - possibility to connect and use **any IMU working at 5V**
 
 Due to the small dimensions and its light weight, is recommended to use satshakit mini flight controller in ** small DIY drones having sizes between 100-200mm**.
+
+<img src="media/board_milled.jpg" width="70%">
+<img src="media/readme/board_soldered.jpg" width="70%">
 
 Getting started
 --
@@ -57,13 +59,6 @@ Downloads
 - [satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/media/satshakit_mini_fc_cut.png)
 - [satshakit mini flight controller BOM xlsx](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/docs/satshakit_mini_fc_BOM.ods)
 - [satshakit mini flight controller BOM ods](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/docs/satshakit_mini_fc_BOM.xlsx)
-
-
-
-Media
---
-
-<img src="media/readme/satshakit_fc_power_0.jpeg" width="70%">
 
 What's in the repo
 --
