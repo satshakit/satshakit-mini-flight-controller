@@ -49,12 +49,12 @@ Downloads
 
 **downloads (right click, download as)**
 
-- [satshakit mini flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_mini_fc.sch)
-- [satshakit mini flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_mini_fc.brd)
-- [satshakit mini flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_mini_fc_internal.png)
-- [satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_mini_fc_cut.png)
-- [satshakit mini flight controller BOM xlsx](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/docs/satshakit_mini_fc_BOM.ods)
-- [satshakit mini flight controller BOM ods](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/docs/satshakit_mini_fc_BOM.xlsx)
+- [satshakit mini flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/eagle_projects/satshakit_mini_fc.sch)
+- [satshakit mini flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/eagle_projects/satshakit_mini_fc.brd)
+- [satshakit mini flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/media/satshakit_mini_fc_internal.png)
+- [satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/media/satshakit_mini_fc_cut.png)
+- [satshakit mini flight controller BOM xlsx](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/docs/satshakit_mini_fc_BOM.ods)
+- [satshakit mini flight controller BOM ods](https://raw.githubusercontent.com/satshakit/satshakit-mini-flight-controller/master/docs/satshakit_mini_fc_BOM.xlsx)
 
 
 
