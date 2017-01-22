@@ -1,11 +1,11 @@
-<h1 style="font-family: courier;" align="center"> satshakit flight controller</h1>
+<h1 style="font-family: courier;" align="center"> satshakit mini flight controller</h1>
 <p align="center">
 <img src="media/readme/satshakit_fc_power_connected.jpeg" width="70%">
-<div align="center"><i>An open source & easy to make flight controller board.</i></div>
+<div align="center"><i>An open source & easy to make small flight controller board.</i></div>
 </p>  
 
 
-satshakit flight controller
+satshakit mini flight controller
 --
 satshakit mini flight controller is an **open source, MultiWii compatible, small flight controller board**, that is possibile to **make in a FabLab**. The design derives from **[satshakit fight controller](https://github.com/satshakit/satshakit-flight-controller)**.
 
@@ -42,7 +42,7 @@ Now you can use again the same connections, Arduino as ISP and Arduino IDE  to *
 
 To connect all the elements fo your drone, you can follow the **satshakit mini flight controller pinout**:
 
-<img src="media/satshakit_flight_controller/satshakit_fc_pin_mapping.png" width="70%">
+<img src="media/satshakit_fc_pin_mapping.png" width="70%">
 
 Downloads
 --
@@ -51,8 +51,6 @@ Downloads
 
 - [satshakit mini flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_mini_fc.sch)
 - [satshakit mini flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_mini_fc.brd)
-
-
 - [satshakit mini flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_mini_fc_internal.png)
 - [satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_mini_fc_cut.png)
 - [satshakit mini flight controller BOM xlsx](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/docs/satshakit_mini_fc_BOM.ods)
