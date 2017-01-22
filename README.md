@@ -9,6 +9,8 @@ satshakit mini flight controller
 --
 satshakit mini flight controller is an **open source, MultiWii compatible, small flight controller board**, that is possibile to **make in a FabLab**. The design derives from **[satshakit fight controller](https://github.com/satshakit/satshakit-flight-controller)**.
 
+Here you can find all of the satshakit boards: **[satshakit organization](https://github.com/satshakit)**.
+
 Features
 --
 
