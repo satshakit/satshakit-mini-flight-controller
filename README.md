@@ -42,17 +42,17 @@ Now you can use again the same connections, Arduino as ISP and Arduino IDE  to *
 
 To connect all the elements fo your drone, you can follow the **satshakit mini flight controller pinout**:
 
-<img src="media/satshakit_fc_pin_mapping.png" width="70%">
+<img src="media/satshakit_mini_fc_pinout.png" width="70%">
 
 Downloads
 --
 
 **downloads (right click, download as)**
 
-- [satshakit mini flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_mini_fc.sch)
-- [satshakit mini flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_mini_fc.brd)
-- [satshakit mini flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_mini_fc_internal.png)
-- [satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_mini_fc_cut.png)
+- [satshakit mini flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_mini_fc.sch)
+- [satshakit mini flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_mini_fc.brd)
+- [satshakit mini flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_mini_fc_internal.png)
+- [satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_mini_fc_cut.png)
 - [satshakit mini flight controller BOM xlsx](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/docs/satshakit_mini_fc_BOM.ods)
 - [satshakit mini flight controller BOM ods](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/docs/satshakit_mini_fc_BOM.xlsx)
 
