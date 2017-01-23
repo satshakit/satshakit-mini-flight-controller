@@ -24,7 +24,7 @@ satshakit mini flight controller has been designed aiming to be **easy to make, 
 - possibility to connect and use **any IMU working at 5V**
 - size of 41x44mm
 
-Due to the small dimensions and its light weight, is recommended to use satshakit mini flight controller in **small DIY drones having sizes between 100 and 200mm**.
+Due to the small dimensions and its light weight, is recommended to use satshakit mini flight controller in **small DIY drones having sizes between 100 and 200mm** such as the **[satshacopter 150X](https://github.com/satshacopter/satshacopter-150X)**.
 
 <img src="media/board_milled.jpg" width="70%">
 <img src="media/board_soldered.jpg" width="70%">
